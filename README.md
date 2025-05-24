@@ -84,4 +84,3 @@ This code finds the **largest subarray** where the min + max is even, and return
 
 This code has a **quadratic time complexity O(n²)** due to the nested loop. It works only because the constraint on `n` is small (e.g., ≤ 50).
 
-Let me know if you want a [faster approach](f) or [visual explanation](f) of how this works.
