@@ -1,4 +1,4 @@
-﻿## Fashionable-Array-Code-Forces:
+### Fashionable-Array-Code-Forces:
 
 This C++ code solves a problem where the goal is to **make an array "fashionable"** by removing the fewest number of elements. An array is considered *fashionable* if:
 
