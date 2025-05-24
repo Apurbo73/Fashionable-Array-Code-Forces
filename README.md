@@ -10,7 +10,7 @@ Let’s break down the code step by step:
 
 ---
 
-### 📌 **Step-by-step Explanation**
+### 📌 **Step-by-step Explanation:**
 
 ```cpp
 int t; cin >> t;
